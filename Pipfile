@@ -23,8 +23,14 @@ seaborn = ">=0.11.0"
 ipython = "*"
 psutil = "*"
 thop = ">=0.1.1"
+#opencv_contrib_python
+opencv-python-headless
+opencv-contrib-python-headless
+
+torchaudio==0.9.0 
+cudatoolkit=10.2
 
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "3.8"
