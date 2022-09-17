@@ -11,8 +11,8 @@ torchvision>=0.8.1,!=0.13.0
 tqdm>=4.64.0
 # protobuf<=3.20.1  # https://github.com/ultralytics/yolov5/issues/8012
 
-opencv-python-headless
-opencv-contrib-python-headless
+#opencv-python-headless
+#opencv-contrib-python-headless
 
 # Logging -------------------------------------
 tensorboard>=2.4.1
