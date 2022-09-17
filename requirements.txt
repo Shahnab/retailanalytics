@@ -16,7 +16,7 @@ opencv-python-headless
 opencv-contrib-python-headless
 
 torchaudio==0.9.0 
-cudatoolkit=10.2
+cudatoolkit==10.2
 
 # pip install -r requirements.txt
 
