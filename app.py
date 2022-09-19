@@ -103,19 +103,19 @@ def main():
             
             stframe = st.empty()
             
-            st.markdown("""<h4 style="color:black;">
+            st.markdown("""<h4 style="color:red;">
                             Memory Overall Statistics</h4>""", 
                             unsafe_allow_html=True)
             kpi5, kpi6 = st.columns(2)
 
             with kpi5:
-                st.markdown("""<h5 style="color:black;">
+                st.markdown("""<h5 style="color:red;">
                             CPU Utilization</h5>""", 
                             unsafe_allow_html=True)
                 kpi5_text = st.markdown("0")
             
             with kpi6:
-                st.markdown("""<h5 style="color:black;">
+                st.markdown("""<h5 style="color:red;">
                             Memory Usage</h5>""", 
                             unsafe_allow_html=True)
                 kpi6_text = st.markdown("0")
