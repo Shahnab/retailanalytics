@@ -71,6 +71,7 @@ def main():
     inference_msg = st.empty()
     st.sidebar.title("Configuration")
     st.sidebar.markdown("Demo videos- [link](https://drive.google.com/drive/folders/1s4Fo0yOYKtHS2xEPuPO3PwJ_xZb3I5Rt?usp=sharing)")
+    st.sidebar.markdown("Key Tool Benefits - [link](https://docs.google.com/presentation/d/e/2PACX-1vS0CTIednV8cYKAK4uyksLnq3jE5wnkfEOLZpVoErF7uMTPNSYH7TyD49Vm_8AWWA/pub?start=true&loop=true&delayms=60000&slide=id.p1)")
     
 
     input_source = 'Video'
