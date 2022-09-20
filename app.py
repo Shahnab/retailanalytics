@@ -70,6 +70,7 @@ def main():
 
     inference_msg = st.empty()
     st.sidebar.title("Configuration")
+    st.sidebar.markdown("Demo videos- [link](https://drive.google.com/drive/folders/1s4Fo0yOYKtHS2xEPuPO3PwJ_xZb3I5Rt?usp=sharing)")
     
 
     input_source = 'Video'
